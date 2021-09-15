@@ -1,5 +1,3 @@
-In this assignment let's build a **Reviews App** by applying the concepts we
-have learned till now.
 
 ### Refer to image below:
 
